@@ -1,0 +1,10 @@
+[user]
+        name = paws
+        email = paws@delimitize.com
+[core]
+        editor = vi
+[merge]
+        tool = vimdiff
+
+[push]
+	default = simple
