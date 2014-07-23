@@ -1,4 +1,4 @@
-from mrpaws/ubuntu:14.04
+from ubuntu:14.04
 maintainer mrpaws "<paws@delimitize.com>"
 
 env DEBIAN_FRONTEND noninteractive
